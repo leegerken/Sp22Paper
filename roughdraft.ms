@@ -34,10 +34,9 @@ Introduction
 Provide one or two paragraphs to describe the work and why it is important.
 .PP
 Christine Peterson coined the phrase
-.q "open source."
-.(q
 On April 17, 1998, Tim O'Reilly held a meeting of key leaders in the field. Announced in advance as the first
-.q "Freeware Summit,"
-by April 14 it was referred to as the first
-.q "Open Source Summit."
-.)q
+.PP
+Citations
+.[
+Krashen
+.]
